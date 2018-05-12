@@ -1,3 +1,71 @@
 
 Question 1 The core purpose of HTML is to
 Answer: Communicate the structure of the content
+
+Question 1
+W3C (World Wide Web Consortium) is the only organization that dictates what and how browsers should implement HTML5
+Answer: False
+
+Question2 WHATWG does NOT version HTML. For them, it's NOT HTML5. It's just HTML.
+Answer: True
+
+
+Question 1
+ALL HTML5 tags must
+Answer: Have an opening tag,
+
+
+Question 1
+Identify correct HTML5 page declaration(s)
+Answer: <!DOCTYPE html>, <!doctype html>, <!DocTyPe htML   >
+
+Question 2
+What would happen if you didn't specify the HTML5 declaration?
+Answer: The page will be interpreted in quirks mode
+
+Question 3
+Browsers ALWAYS interpret HTML sequentially, top to bottom
+Answer: True
+
+Question 4
+Identify invalid HTML code snippet below (assume code around it, i.e., declaration, etc. is valid)
+Answer: <section>
+<p>The sale numbers are in...
+</section> You ARE a closer, Johnson!
+</p>
+
+Question 5
+Meta tags communicate information about the browser to the server
+Answer: False
+
+Question 6
+Quirks Mode is when the browser
+Answer: Assumes that the HTML in the web page is NOT following the HTML standard, i.e., 
+not in standards mode. Styles won't work correctly, etc.
+
+
+Question 1
+Without applying any additional styles, the following code snippet will show up in the 
+browser as how many lines of text? (Assume the browser is stretched wide enough not to 
+cause any single line to wrap)
+<div>Dear all,
+<span>I took this really cool course
+</span></div>
+<span>on Coursera.org. I think it's
+my favorite course I've EVER taken!
+Here is the URL for it:
+</span>
+<a href="...">HTML, CSS and JS for Web Developers</a>
+<div>
+Does anyone know how I can give this course 6
+out of 5 stars?
+</div>
+<div>
+Thank you,
+-Yaakov.... I mean a random student! Definitely not Yaakov.
+</div>
+Answer: 4
+
+Question 2
+Identify invalid HTML code snippet (assume code above and below this code is valid)
+Answer: <span>I love <div>gardening</div></span>
