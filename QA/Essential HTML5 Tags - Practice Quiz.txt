@@ -1,0 +1,17 @@
+
+Question 1
+Semantic HTML tags
+Answer: 
+May help the SEO ranking of the page, Help computers better understand the structure of the page,
+Help humans better understand the structure of the page
+
+
+Question 1
+One purpose of HTML Character Entity References is
+Answer: To allow the browser to display certain characters it would otherwise interpret as part of HTML code and not something to display to the user
+
+
+Question 2
+Using only HTML, how would you make sure that 3 words in an HTML document ALWAYS appear together on 1 line, 
+even if the text word-wraps because the browser window is too narrow for that text line?
+Answer: Place &nbsp; entity reference after the 1st word and after the 2nd word (with no spaces in between words and entity references)
