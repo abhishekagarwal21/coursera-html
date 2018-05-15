@@ -1,0 +1,107 @@
+Module 1 Quiz
+
+Question 1
+If I miss an assignment deadline or fail an assignment, I fail the course.
+Answer: False
+
+Question 2
+This is a completely self-paced course. The deadlines don't matter at all!
+Answer: False
+
+Question 3
+I can go through the course faster and complete it faster!
+Answer: True
+
+Question 4
+Where can you get access to the example source code used in the course and the Lecture Slide PDFs?
+Answer: The link to the GitHub.com repository, which contains the example code used in this course, 
+Lecture Slide PDFs, as well as assignment starter code is given to you in the first module under 
+the title "ALL of the EXAMPLE SOURCE CODE for this Course".
+
+Question 5
+In order to install Browser Sync, what must be installed first?
+Answer: NodeJs
+
+Question 6
+The core purpose of HTML is to
+(hint: something a pure text file with content won't be able to accomplish)
+Answer: Communicate the structure of the content
+
+Question 7
+W3C (World Wide Web Consortium) is the only organization that dictates what and how browsers should implement HTML5
+Answer: False
+
+Question 8
+ALL HTML5 tags must
+Answer: Have an opening tag
+
+Question 9
+Identify correct HTML5 page declaration(s)
+Answer: <!DOCTYPE html>, <!doctype html>, <!DocTyPe htML   >
+
+Question 10
+What would happen if you didn't specify the HTML5 declaration?
+Answer: The page will be interpreted in quirks mode
+
+Question 11
+Browsers ALWAYS interpret HTML sequentially, top to bottom
+Answer: True
+
+Question 12
+Identify invalid HTML code snippet below (assume code around it, i.e., declaration, etc. is valid)
+Answer: <section>
+<p>The sale numbers are in...
+</section> You ARE a closer, Johnson!
+</p>
+
+Question 13
+Meta tags communicate information about the browser to the server
+Answer: False
+
+Question 14
+Without applying any additional styles, the following code snippet will show up in the browser as 
+how many lines of text? (Assume the browser is stretched wide enough not to cause any single line to wrap)
+Answer: 4
+
+Question 15
+Identify invalid HTML code snippet (assume code above and below this code is valid)
+Answer: <span>I love <div>gardening</div></span>
+
+Question 16
+Semantic HTML tags
+Answer: May help the SEO ranking of the page, Help computers better understand the structure of the page,
+Help humans better understand the structure of the page
+
+Question 17
+One purpose of HTML Character Entity References is
+Answer: To allow the browser to display certain characters it would otherwise interpret as part of 
+HTML code and not something to display to the user
+
+Question 18
+Using only HTML, how would you make sure that 3 words in an HTML document ALWAYS appear together 
+on 1 line, even if the text word-wraps because the browser window is too narrow for that text line? 
+Answer: Place &nbsp; entity reference after the 1st word and after the 2nd word (with no spaces
+ in between words and entity references)
+ 
+Question 19
+How can you force the browser to open a link in a new window or tab?
+Answer: Include target='_blank' attribute as part of the <a> tag
+
+Question 20
+The following code rendering in the middle section of the page allows someone to directly 
+link to that middle section of the page, not just the beginning of the page:
+<div id="superInterestingContentHere">Bla Bla</div>
+Answer: True
+
+Question 21
+Even though the width and height attributes of the 'img' tag are not required, it's always a good idea to use them
+Answer: True
+
+Question 22
+WHATWG does NOT version HTML. For them, it's NOT HTML5. It's just HTML.
+Answer: True
+
+Question 23
+Quirks Mode is when the browser
+Answer: Assumes that the HTML in the web page is NOT following the HTML standard, i.e., not in 
+standards mode. That will cause styles not to work correctly, etc.

@@ -15,3 +15,20 @@ Question 2
 Using only HTML, how would you make sure that 3 words in an HTML document ALWAYS appear together on 1 line, 
 even if the text word-wraps because the browser window is too narrow for that text line?
 Answer: Place &nbsp; entity reference after the 1st word and after the 2nd word (with no spaces in between words and entity references)
+
+
+Question 1
+How can you force the browser to open a link in a new window or tab?
+Answer: Include target='_blank' attribute as part of the <a> tag
+
+Question 2
+The following code rendering in the middle section of the page allows someone to directly link to that middle 
+section of the page, not just the beginning of the page:
+<div id="superInterestingContentHere">Bla Bla</div>
+Answer: True
+
+
+Question 1
+Even though the width and height attributes of the 'img' tag are not required, it's always a good idea to use them
+Answer: True - Yes, it is. If image doesn't display for whatever reason, the same space that the image would have 
+taken up would still be taken up. Without that, there is a potential of breaking the layout that depends on the image being there.
